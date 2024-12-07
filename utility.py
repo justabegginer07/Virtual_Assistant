@@ -1,0 +1,1 @@
+opening_text=["Cool, I'm on it.","Just a second."]
