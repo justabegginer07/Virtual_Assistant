@@ -1,3 +1,3 @@
-VIRTUAL ASSISTANT (In Progress)
+VIRTUAL ASSISTANT
 
-Creating a Virtual Assistant using speech to text recognition
+Creating a Virtual Assistant using speech to text recognition Using APIs(Hardcoded responses).
